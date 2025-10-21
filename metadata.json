@@ -1,0 +1,5 @@
+{
+  "name": "FilmesHDs",
+  "description": "A personal movie streaming library where you can add movies from your computer, set custom covers, and watch them in a sleek, YouTube-like player. Your library is saved in your browser for your next visit.",
+  "requestFramePermissions": []
+}
